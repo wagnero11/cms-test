@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "myrtle_970x250s",
+  "info": {
+    "singularName": "myrtle-970x250",
+    "pluralName": "myrtle-970x250s",
+    "displayName": "myrtle-banner-size",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "identification": {
+      "type": "string"
+    },
+    "index": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "copy": {
+      "type": "text"
+    },
+    "colourOne": {
+      "type": "string"
+    },
+    "colourTwo": {
+      "type": "string"
+    },
+    "colourThree": {
+      "type": "string"
+    },
+    "colourFour": {
+      "type": "string"
+    },
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
