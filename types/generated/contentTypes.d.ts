@@ -378,6 +378,7 @@ export interface ApiMyrtle970X250Myrtle970X250 extends Schema.CollectionType {
     index: Attribute.String;
     title: Attribute.String;
     copy: Attribute.Text;
+    cta: Attribute.String;
     colourOne: Attribute.String;
     colourTwo: Attribute.String;
     colourThree: Attribute.String;

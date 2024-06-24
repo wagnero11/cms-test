@@ -25,7 +25,7 @@
       "type": "text"
     },
     "cta": {
-      "type": "text"
+      "type": "string"
     },
     "colourOne": {
       "type": "string"
