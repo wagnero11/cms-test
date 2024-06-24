@@ -24,6 +24,9 @@
     "copy": {
       "type": "text"
     },
+    "cta": {
+      "type": "text"
+    },
     "colourOne": {
       "type": "string"
     },
